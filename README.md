@@ -1,2 +1,7 @@
-# Enhancing-Multi-Emotion-Detection-in-Text-
 Machine Learning for NLP Classification Tasks work
+
+Abstract: Emotion detection in text is a key task in natural language processing (NLP) with applications in sentiment analysis, human-computer interaction, and mental health assessment. This study evaluates the performance of various feature extraction techniques and classification models for multi-emotion detection, using a dataset of 15,996 samples annotated with sixemotion labels: Sadness, Joy, Love, Anger, Fear, and Surprise.Three feature extraction methods—TF-IDF, Count Vectorization, and N-grams—were applied to preprocess the text data. Six models—K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Naive Bayes, Decision Tree, Logistic Regression, and Bidirectional Long Short-Term Memory (BiLSTM)—were then used to classify emotions. The evaluation of 18 feature-model combinations showed that TF-IDF with SVM achieved the highest accuracy of 86.15%, Count Vectorization with Logistic Regression achieved 86.25%, and N-grams with SVM achieved 86.06%. N-grams combined with SVM also performed well, achieving an accuracy of 86.06%, underlining the importance of capturing contextual and sequential information in text classification. This research contributes to improving NLP-based emotion detection systems and provides insights for future work, particularly in domains requiring nuanced emotion recognition from text data.
+
+Conference: 2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)
+
+Published Paper Link: https://ieeexplore.ieee.org/abstract/document/11013403/
